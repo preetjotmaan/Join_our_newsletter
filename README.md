@@ -1,6 +1,6 @@
 # DevChallenges.io - Join Our Newsletter
 
-![Thumbnail for the Join Our Newsletter coding challenge](./thumbnail.jpg)
+[see the demo here]( https://preetjotmaan.github.io/Join_our_newsletter/)
 
 ## Welcome! 👋
 
